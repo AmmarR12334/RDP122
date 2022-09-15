@@ -34,7 +34,7 @@ jobs:
         },
         "mounts": [
         ],
-        "num_cores": 1,
+        "num_cores": 144,
         "ssh_username": "ubuntu",
         "state": 0
     }
